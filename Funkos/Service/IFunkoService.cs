@@ -1,13 +1,14 @@
 ﻿using CSharpFunctionalExtensions;
+using Funkos.Errors;
 using Funkos.Models;
 
 namespace Funkos.Service;
 
 public interface IFunkoService
 {
-    Result<List<Funko>, string> GetAll();
-    Result<Funko?, string> GetById(long id);
-    Result<Funko, string> Add(Funko newFunko);
-    Result<Funko?, string> Update(long id, Funko updatedFunko);
-    Result<bool, string> Delete(long id);
+    Result<List<Funko>, DomainErrors> GetAll();
+    Result<Funko, DomainErrors> GetById(long id);
+    Result<Funko, DomainErrors> Add(Funko newFunko);
+    Result<Funko, DomainErrors> Update(long id, Funko updatedFunko);
+    Result<bool, DomainErrors> Delete(long id);
 }

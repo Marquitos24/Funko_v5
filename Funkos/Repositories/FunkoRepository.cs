@@ -5,7 +5,7 @@ namespace Funkos.Repositories;
 public class FunkoRepository : IFunkoRepository
 {
 
-    private List<Funko> _funkos = new();
+    private static List<Funko> _funkos = new();
     private static long _nextId = 1;
     
     public List<Funko> GetAll()

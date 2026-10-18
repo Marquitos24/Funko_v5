@@ -4,6 +4,11 @@
     &lt;TestId&gt;NUnit3x::3875B0F7-3003-055F-4A58-79DD5FE07B84::net10.0::Funkos.Test.Mappers.FunkoMapperTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=43c0fe18_002Dc32c_002D43d1_002Dbbe7_002D43f201728a08/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="NotFoundError_Reotna_404_FormId_ErrorIdentificador" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3875B0F7-3003-055F-4A58-79DD5FE07B84::net10.0::Funkos.Test.Controller.FunkoControllerTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4ad1b37a_002Dd22a_002D4447_002Db5f2_002D54f91cdaed0b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ToEntity_Ok" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3875B0F7-3003-055F-4A58-79DD5FE07B84::net10.0::Funkos.Test.Mappers.FunkoMapperTest.ToEntity_Ok&lt;/TestId&gt;&#xD;
@@ -14,7 +19,7 @@
     &lt;TestId&gt;NUnit3x::3875B0F7-3003-055F-4A58-79DD5FE07B84::net10.0::Funkos.Test.Mappers.FunkoMapperTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c75c08e3_002D2396_002D4c44_002D9bde_002D77c23ef7fc6e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FunkoMapperTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c75c08e3_002D2396_002D4c44_002D9bde_002D77c23ef7fc6e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FunkoMapperTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3875B0F7-3003-055F-4A58-79DD5FE07B84::net10.0::Funkos.Test.Mappers.FunkoMapperTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3875B0F7-3003-055F-4A58-79DD5FE07B84::net10.0::Funkos.Test.Repository.FunkoRepositoryTest.GetAll_RetornaListaFunkos&lt;/TestId&gt;&#xD;

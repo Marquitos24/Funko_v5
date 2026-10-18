@@ -31,3 +31,6 @@ C:\Users\Marcos\Documents\Proyectos\Back-end\C#\Funkos\Funkos\obj\Debug\net10.0\
 C:\Users\Marcos\Documents\Proyectos\Back-end\C#\Funkos\Funkos\obj\Debug\net10.0\Funkos.pdb
 C:\Users\Marcos\Documents\Proyectos\Back-end\C#\Funkos\Funkos\obj\Debug\net10.0\Funkos.genruntimeconfig.cache
 C:\Users\Marcos\Documents\Proyectos\Back-end\C#\Funkos\Funkos\obj\Debug\net10.0\ref\Funkos.dll
+C:\Users\Marcos\Documents\Proyectos\Back-end\C#\Funkos\Funkos\bin\Debug\net10.0\CSharpFunctionalExtensions.dll
+C:\Users\Marcos\Documents\Proyectos\Back-end\C#\Funkos\Funkos\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marcos\Documents\Proyectos\Back-end\C#\Funkos\Funkos\bin\Debug\net10.0\Scrutor.dll

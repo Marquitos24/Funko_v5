@@ -15,7 +15,6 @@ public class FunkoMapperTest
     [SetUp]
     public void SetUp()
     {
-
         _funkoDTORequest = new FunkosDtoRequest()
         {
             Name = "Cristian",

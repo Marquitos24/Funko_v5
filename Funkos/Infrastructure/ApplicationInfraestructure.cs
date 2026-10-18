@@ -10,7 +10,6 @@ public static class ApplicationInfraestructure
         // Aquí registras tus repos, servicios y los Scoped/Singleton/Transient
         services.AddScoped<IFunkoRepository, FunkoRepository>();
         services.AddScoped<IFunkoService, FunkoService>();
-        
 
         return services;
     }
